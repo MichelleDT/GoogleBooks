@@ -46,6 +46,7 @@
 
 ### Live site
 
-* deployed: 
+* deployed: https://pure-cove-82843.herokuapp.com/
+
 
 
